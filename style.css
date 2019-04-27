@@ -1,0 +1,67 @@
+.tooltip1 {
+  position: absolute;
+  width: 120px;
+  height: 70px;
+  padding: 2px;
+  padding-top: 8px;
+  font: 12px sans-serif;
+  color: white;
+  text-align: center;
+  background: rgb(41, 128, 185);
+  border: 0;
+  border-radius: 10px;
+}
+
+.tooltip2 {
+  position: absolute;
+  width: 120px;
+  height: 70px;
+  padding: 2px;
+  padding-top: 8px;
+  font: 12px sans-serif;
+  color: white;
+  text-align: center;
+  background: rgb(156, 11, 147);
+  border: 0;
+  border-radius: 10px;
+}
+
+.line1 {
+  stroke: rgb(41, 128, 185);
+  stroke-width:2px;
+}
+
+.line2 {
+  stroke: rgb(156, 11, 147);
+  stroke-width:2px;
+}
+
+.bubbleText {
+  font: 10px sans-serif;
+  color: silver;
+}
+.axisText {
+  font-family: sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  fill: grey;
+  text-anchor: middle;
+}
+
+.titleText {
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  fill: black;
+  text-anchor: middle;
+}
+
+.text {
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  font-family: sans-serif;
+  font-size: 12px;
+  fill: black;
+  text-align: justify;
+}
