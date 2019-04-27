@@ -17,5 +17,8 @@ There are four relevant files and one folder for this mini-project.
 ### Features.
 This is a simple web page that uses D3.js to visualize the differences between survey respondents with a high school diploma and those that completed an undergraduate degree.  The bubble plot has two colors: blue for those that completed up to a high school degree, and purple for those that completed up to an undergraduate degree.  Trend lines associated with both types of data.  The data can be selected with the check boxes in the upper left of the page.  Additionally, a text box will be displayed when hovering over each bubble.  Information displayed includes: the state name, percent memory loss, and percentage of individuals that completed the education level.
 
-![Chart with both data]()
-![Chart with one data type]()
+<br />
+
+![Chart with both data](https://github.com/knishina/academic_trends/blob/master/Images/01.png)
+
+![Chart with one data type](https://github.com/knishina/academic_trends/blob/master/Images/02.png)
